@@ -45,4 +45,6 @@ figcaption {
 
 /* Descendant Selector */
 
-#logo
+#logo h1 { /* select <1> only if inside the id="logo" */
+  font-family: 'Clicker Script', cursive;
+}
