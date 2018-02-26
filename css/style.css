@@ -42,3 +42,7 @@ figcaption {
 #logo { /* select element with id = "logo" */
   background-color: aqua;
 }
+
+/* Descendant Selector */
+
+#logo
